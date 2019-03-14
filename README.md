@@ -1,5 +1,5 @@
 # BallisticMissileDefenseStrategy
-BMD Strategy: Towards Optimal Interceptor Allocation project for CS238 at Stanford. Worked with James Myerson and Gaëlle Smagghe.
+BMD Strategy: Towards Optimal Interceptor Allocation project for CS238 at Stanford University. Worked with James Myerson and Gaëlle Smagghe.
 
 Methods Used:
 - Baseline Heuristic: launch 2 interceptors at each incoming missile
